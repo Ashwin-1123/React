@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+*{
+    font-family: "protest Riot" , sans-serif;
+}
+table{
+    border: 1 px solid white;
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid rgb(11, 1, 1);
+    padding: 5px 10px;
+}
+table td:first-child{
+    font-weight: 600;
+}
+form{
+    width: 250px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.no1{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

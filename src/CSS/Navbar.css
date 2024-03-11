@@ -1,0 +1,7 @@
+.navbar-brand span a{
+    color: white;
+}
+.navbar-brand .nbc span:hover {
+    color: rgb(247, 146, 29) !important;
+    cursor: pointer;
+}
